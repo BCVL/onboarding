@@ -1,0 +1,191 @@
+---
+title: "Welcome to Bates Computational Vision Lab!"
+author: "Michelle R. Greene"
+date: "Short Term 2019"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    theme: cosmo
+---
+
+*“It’s the questions we can’t answer that teach us the most. They teach us how to think. If you give a man an answer, all he gains is a little fact. But give him a question, and he’ll look for his own answers. That way, when he finds the answer it will be precious to him. The harder the question, the harder we hunt. The harder we hunt, the more we learn.”*
+
+Patrick Rothfus, *A Wise Man’s Fear*
+
+# The Most Important Rule
+The most important rule of working in my lab is to *ask questions!* Don't understand a paper I've sent you? Ask me about the concepts you don't yet understand. Were my directions unclear? Ask me to explain another way. Don't remember how to do something? Ask! I know that it's not always comfortable, but I promise that I will never make you feel bad for asking.  
+
+# Tools of BCVL
+## Slack
+My preference is to avoid email as much as possible. I respond best in Slack for most things that would typically be in an email conversation (asking questions, requesting a meeting, etc). If you are not familiar, Slack is like the best parts of email and chat all in one. Whereas I typically respond to emails within a day or so, I often respond to Slack messages within minutes. You should have already received an invitation from me to join our lab's [Slack account](https://join.slack.com/t/batescvl/signup?x=x-213900015140-213189937728). By default, everyone is enrolled in the "general" and "random" channels, and anyone can send private messages to anyone else in the lab. As our lab grows, we can add more fun channels (music recommendations, cute animal pictures, whatever)!  
+
+## Asana
+[Asana](https://www.asana.com) is the project management software I use for my research (and life). Your thesis is a project, and you and I are collaborators on it. If you are doing independent research with me, then your project will be shared with me and your other collaborators. During our weekly meetings, we will examine the goals you have set for your project for the week and also set new goals for the next week. Once you have completed a task, you will check it off, allowing everyone on the project to know one another's status. If you have not been invited to your project, please let me know ASAP.  
+
+## Github
+Please create a Github account for yourself, and please join our [lab organization](https://github.com/orgs/BCVL/). Github not only allows you to store and share your code, but to create new versions of old code that has different functionality while keeping everything neat, clean, and organized. Beyond what this tool can do for you, it does a great service to open science: in this lab, we write code that we are have confidence in and that we are happy to release to the world. This keeps us honest and replicable, and also helps all researchers throughout the world push back the "frontier of ignorance" at an even faster rate! Git is a powerful tool. If you are unfamiliar with it, you may find [this tutorial](https://www.elegantthemes.com/blog/resources/git-and-github-a-beginners-guide-for-complete-newbies) helpful!  
+
+## Zotero
+My reference management of choice is [Zotero](https://www.zotero.org/). In my view, it is better than EndNote in every possible way! First, it is free (as in speech as well as in pizza), which means that you could contribute code to it or change it to fit your needs. It also means that you can continue to use it beyond Bates without having to pay for it! Unlike EndNote, it's always compatible across different versions. Once installed, you can import a new reference into your library with a single click. There are also plugins for Google Docs, Microsoft Word etc so that you never have to worry about typing in references by hand.  
+
+## RStudio
+Although you may have been trained to use a tool like SPSS in a statistics course, we will be using R in this lab. There are some reasons for this: first, like Zotero it is free and you will be able to continue using it after your time at Bates, or during your thesis when you are away from campus. Second, R is a powerful engine for plotting data as well as analyzing it. Third, your final thesis document will be in [Rmarkdown](https://rmarkdown.rstudio.com/), giving you one unified location for your analysis, figures, and text. Although there is some overhead to learning R, I think that you will find that it’s much simpler to type in a single line of code to perform a statistical test than to remember which of half a dozen menus to click through in SPSS! I recommend using RStudio as your R environment. It gives you everything you need all in one place. Here are the [installation instructions](https://www.ics.uci.edu/~sternh/courses/210/InstallingRandRStudio.pdf). If you would like to get started in learning R, [this](http://swcarpentry.github.io/r-novice-gapminder/) is an exellent tutorial.
+
+# Access
+## Keys
+If it would be helpful to have a key to the lab, please fill out [this form](http://cms-content.bates.edu/prebuilt/keyrequest.pdf) and bring it to myself and Nancy Koven to be signed. Please leave the lab locked when you leave. The space it is in used to be a lounge, and I have found random folks using it as such when it is left open.  
+
+## Computer accounts
+The user account for all lab computers is BCVL. All lab computers have the same password that Michelle will give you in person.  
+
+# Meetings
+## Group meeting
+We will work as a lab at the beginning of each term to determine group meeting time that works for the majority of us. Some lab meetings will be tutorials in which I teach a particular technique (eye tracking, EEG, data analysis, etc.) During other lab meetings, you may be requested to present your current progress on your project. Depending on lab members' needs, we may take an entire meeting to discuss one member's project, or we may go "round robin" to get updates on each member's project. The topics of each lab meeting will be determined by the group in advance, and also announced on Slack. Research can be an isolating enterprise, and we are all smarter together. Lab meeting serves as a vehicle for getting feedback on your project, exposing you to other ideas and problems in the area by hearing about your lab mates' projects, and allows me to give efficient training on technique.  
+
+## One-on-one meetings
+At the beginning of each semester, please send me a message on Slack with at least three (3) times that would work for an hourly weekly one-on-one meeting. We might not take the whole hour each week, but it's best to have the time if we need it. I'll let you know by Slack which time works for me. Meetings will be in my office (Hathorn 106). 
+
+# Training
+Before you can begin collecting data in either eye tracking or EEG, you will need to go through a training protocol. The first step will be to hear an introduction to the technique from me (I will give these periodically during lab meetings, or we can do this in a one-on-one weekly meeting). After you have received this information, we will schedule a time for you to observe me prepare and run a participant in the given technique. After observation, we will do a brief apprenticeship in which you and I collaborate in running the participant. It's good to volunteer to be this participant as well as observing one. By going through the process of being in an experiment, you know how to advise and motivate your own participants! When you feel ready, the last step is to have me observe you running a participant. When you can do this independently with proper technique, I will allow you to start collecting data for your project.  
+
+# Data Collection Workflow
+## Experimental Design
+Proper experimental design is the keystone to experimental success. For our first one-on-one meetings, I will ask you to design your project's experiment(s), and we will work together to ensure that they have the proper balance and control. This can take time, but trust me, it is much better to spend more time now than to need to re-run the experiment in the future! My aim is to train you to be able to independently design beautiful experiments. In my experience, you'll do so far more effectively if you can see the flaws in your own design. (Trust me, some of my first ideas still have flaws, this is why we take time here). If I see an issue, I may not raise it with you right away, but may ask you to simulate the experiment in a programming environment so that you can see what would happen if this experiment were run "as is". Again, patience is critical here and you will be rewarded later with interpretable data! Part of good experimental design is to ensure good statistical power. Remember that power is the ability to find a statistically significant effect given that one should be there. It is my policy to do some kind of power analysis in advance so that we know how many participants we need to run for your project. The reasons for this are three-fold: (1) It is increasingly common for journals to require a discussion of how sample size was determined; (2) It's scientifically unacceptable to add participants until one gets the result one wants; (3) It is wasteful (and arguably unethical) to just run the maximum number of participants available to us. As the power calculations you learned in statistics make parametric assumptions, we may or may not use them in your particular project. I will work with you to show you some non-parametric ways to get the same information.  
+
+## IRB Approval
+If your project involves collecting data from human participants, your project will need to be approved by the [Internal Review Board (IRB)](https://www.bates.edu/institutional-review-board/) before we collect any data. This is a critically important step, and can take some time. The IRB plays a crucial role in independently assessing the research involving human subjects that takes place at Bates College to ensure that all projects meet our community's ethical standards. As part of this process, you will need to have a valid certificate showing completion of the Protecting Human Research Participants [course offered online by the National Institutes of Health (NIH)](https://www.bates.edu/institutional-review-board/training-requirements-for-human-subjects-researchers/). This training course can take a few hours to complete, and can be done at any point in your project. I suggest that you do it right away when you start working with me because the certificate will remain valid for the remainder of your time at Bates. If you remain in research, you will be re-doing this course every few years for the rest of your career. Most of the remainder of the IRB application will consist of the experimental design that you will have just finished if you have completed a thesis proposal, so it should not take too much time. PLEASE NOTE that I require all students to share their IRB proposals with me BEFORE submitting to the IRB. Again, this can save us precious time if there are any issues. Once your proposal is submitted, it will be a few days before the IRB will read it and give us comments, and we might be required to submit a second application before the protocol is accepted.  
+
+## Creating your experiment
+Congratulations! The IRB has approved your project! While you are waiting for approval, you can start writing the code that will run your experiments. If you are not an experienced coder, this can be an intimidating process. Remember that learning has some intrinsic discomfort, and that you have many resources at your disposal: [Stack Overflow](https://stackoverflow.com/) is a great resource for asking and receiving questions about coding syntax (please search for your question ahead of time... I find that 95% of times, my questions have already been answered on the site). You also have me (please feel free to send me a direct message on Slack), and/or other lab members.  
+
+### Tutorials and templates
+You may choose to write your experiment in either Python with the [PsychoPy library](https://www.psychopy.org/) or in Matlab with the Psychophysics toolbox. These tools allow us to design experiments and present stimuli in a highly controlled manner. For example, we will be able to control the duration of an image on the screen to within a single refresh of the monitor (10 msec). If you are unfamiliar with the Psychophysics toolbox, I recommend working through some of [these tutorials](http://peterscarfe.com/ptbtutorials.html). . I don't expect you to work through all of them at once, but for what we do at BCVL, the Accurate Timing Demo and the Change Blindness demo are going to be particularly useful. I will have Matlab templates for some of the major paradigms we use in this lab on our Github account. To start your project, pick the appropriate template and fork the template using the git clone command. These templates are like "Mad Libs" for coding. The major structure of the experiments is in place, but you will need to fill in the details that are particular to your project.
+
+### File structure for projects
+Our goal should be to have [tidy data](http://vita.had.co.nz/papers/tidy-data.pdf). In the long run, you will save countless hours of hassle by organizing your project well in advance. In the Github repository for your project (and in your Etna folder), you should create the following subdirectories: Experiment, Data, Scripts, Figures, and Manuscript. Any project found not to have this structure will be halted until this structure is created! The experiment folder will likely contain a subdirectory for the stimuli that you use in the experiment, and well as the scripts/functions that are used in the experiment itself. In the data folder, you will save the output of your experiment (be it behavioral responses like reaction time and accuracy, eye movement files, or EEG data). As EEG and eye tracking involve multiple steps of processing, I recommend two (or more) sub-directories, one labeled rawData that will contain a copy of the data before you have touched it, and a processedData directory that contains the finalized data that you are reporting in your thesis. Any analysis scripts that allow you to go from raw data to processed data should be contained in the Scripts directory. Depending on your project, you may have sub-directories within scripts for more specialized analyses. When in doubt, please talk to me. The Figures folder is straightforward. If you are in the preliminary stages of your project, you may want to create a subdirectory called "rawFigures" or "preliminaryFigures". This is because it takes quite a bit of work to transform a figure from the raw output shown by Matlab or R into something that is publishable, but it's not always worth the time to make a "camera ready" figure when you are just trying to understand the nature of your data. Making finalized figures is an art unto itself, and we will likely do at least a couple of lab meetings on this topic! In the meantime, I advise naming the figures descriptively rather than something like Figure1.png. The final figure order is not always the same as your order of analysis, and you will be grateful when looking at your file folder to know what each file is. The Manuscript folder you will use last and will contain your draft(s) of your thesis and/or the journal paper that we are writing together for our project. 
+
+### Coding conventions
+Counter intuitively, it's often easier to get a computer to understand your code than another human. In some cases, that human may be you! It is unfortunately common to write some aspect of your code that you are sure you will understand later, only to feel lost a few hours/days/months down the road, losing precious time scratching your head trying to re-create your own past thought process. A similar issue arises when you are trying to share your code with someone else: because there are often several valid ways to code the same thing, it's not always easy to understand someone else's train of thought. To ameliorate these issues, we create readable code in this lab by using the following guidelines:
+
+#### Abstractable
+One of the best pieces of advice for writing code is Don't Repeat Yourself (DRY). If you are doing something a set number of times, use a loop. If you find yourself running the same snippet of code over and over, create a function that can be called in one line. This takes some practice, and I will work with you to help you get the hang of it.  
+
+#### Commented
+A comment is a cue for a programming language to skip over. By commenting, you can write yourself and your collaborators notes in plain English. In Python and R, the # character creates a comment. In Matlab, you can create a comment by placing a % before a line. There are three situations where comments are particularly useful: 
+
+* At the beginning of the script. It's good practice to write yourself a comment block before each script telling the user what the code is. I also like to list myself as author (and/or give credit to an author whose work I have forked), and date the code. If I subsequently change the code, I append the new date and discuss the changes from the original version. 
+* At the beginning of each code section. I also encourage you to make a comment before each section of your code so that you or your colleagues can better understand the flow of the code. Tip: you may find it easier to start a script by outlining your code in comments that you fill in later. 
+* Anytime something seems tricky. Remember that these comments serve to help your colleagues as well as to remind future you what past you was thinking. Because there are many valid ways to create the same code, it's extremely helpful to others to show your thought process in plain English. If you are in doubt over whether to comment something, imagine that the next person who will use your code is a homicidal maniac who knows your home address. Will your (lack of) commenting provoke them?  
+
+#### White space
+Code is a lot more readable when there is space to let it breathe. This is called white space. Some best practices include:  
+
+* leaving a blank line between functions or blocks of code
+* spaces between a variable name and its assignment. Consider the readability of: 
+```
+myVariable=zeros(100,1); 
+```
+Versus:
+```
+myVariable = zeros(100, 1);
+```
+* If you are writing in Python, indenting your code is syntactically essential. While this is not true in R or Matlab, doing so will make your code more readable and can often uncover any bugs.
+
+#### Camel Case
+When you create variables, please name them descriptively rather than abstractly (i.e. "presentationTime", "reactionTime", "cnnLayer2", rather than "a", "b", "c" etc.) This will help you keep track of your code and will also help others to understand it. To make multi-word variables more readable, I suggest using "camel case", thatIsCapitalizingTheFirstLetterOfEachNewWord. (Of course, most variables will not be this long!). I find this is far easier to type than placing underscores between each word. 
+
+#### File naming advice
+Just as variables should be descriptively named, so should your scripts and data files. In general, you should avoid "fooVersion1", "fooVersion2" etc as **Future You** will curse having to re-discover the differences between the two files. (Note: this is not the case for manuscripts). And as I had to teach myself the hard way, naming something "fooFinal" is just asking the universe for a reason to need yet another version!  
+
+#### Getting help (technical)
+Coding is hard work. It forces your brain to think in a way that is not natural. You will get better at it over time, but you will encounter days where you are stuck. While you will grow tremendously by working through some of your problems, if you find yourself stuck for more than an hour, you should seek help. The following resources are available to you:  
+
+* Slack. Slack me or any of your terrific lab mates. 
+* [Stackoverflow](https://stackoverflow.com/) is a Q&A community just for computer programming. It's likely that your issue has been asked before, but if it hasn't, feel free to ask the question of the community. Please read [this](https://stackoverflow.com/help/how-to-ask) for advice on how to write a question that will generate a response. 
+* Most of the programming languages we use in this lab have built in help functions. In R, if you want to get help on the function *mean*, you would type:
+```
+?mean
+```
+Or, if you didn't know that there was a function called *mean* and wanted to know if there was one, you can search through help functions containing the word "mean" by typing:
+```
+??mean
+```
+In Matlab, the same two procedures can be done like this:
+```
+help mean
+lookfor mean
+```
+For Python, getting help depends on where you are deploying your Python scripts. I personally like working in the [Spyder](https://www.spyder-ide.org/) interactive developer environment (IDE) that has a [help panel](https://docs.spyder-ide.org/help.html) that is similar in look and feel to RStudio. There are also [other methods](https://jakevdp.github.io/PythonDataScienceHandbook/01.01-help-and-documentation.html), and Michelle is happy to help you find one that works best for you.  
+
+#### Getting help (emotional)
+Debugging is one part rewarding and nine parts frustration. It's great that the computer tells you exactly what it doesn't understand, but it's frustrating to not know how long it might take to squish all of the bugs in your code. This is normal. It's normal to spend an entire day on something like this. And while it's easy to think of that day as "wasted", it really isn't. You may not have solved your problem, but you learned a great deal. If nothing else (with apologies to [T. Edison](https://www.brainyquote.com/quotes/thomas_a_edison_132683)), you found a few dozen things that don't work!
+
+Knowing this doesn't always make the process fun, though. You can always come to me for a pep talk: I can tell you about 15+ years of dumb mistakes that will make you feel better. You can hug one of the stuffed animals in the lab. Sometimes, inspiration will hit by getting out of the lab - go to the gym, have a cup of tea, or take a nice long shower. Sometimes the answer will hit you!  
+
+### Pilot Experiments
+Before we schedule and run naive subjects in any of our experiments, we will run three pilot subjects: (1) you, (2) me, (3) a volunteer colleague in the lab. This will allow us to ensure that the experiment is working as intended, and can allow you to get insights into the experience of the subject. We'll look at the pilot data together to make sure that we have everything we need to analyze the data, but pilot data will not be included in the main experimental dataset. Please be generous with your time and help your fellow lab members with piloting.  
+
+### Scheduling participants
+Congrats! You are now ready to schedule participants for your study! This is a two-step process:  
+
+#### Step 1: Internal BCVL scheduling
+You will first need to ensure that the testing room you wish to use is free, and that Michelle is free to help (for EEG and eye tracking). You'll do this by checking the BCVL experiment calendar. Please see Michelle if you are not a member of this calendar. During some times of the semester, there might be multiple projects vying for a slot. The order of priority is: 
+
+* Thesis projects (and within thesis projects, priority is given to those who have collected less data to date)
+* Non-thesis student projects
+* Michelle's projects that do not have student collaborators
+
+#### Step 2: Advertising to students
+Once you have your time slots, you will need to register your experiment with the [Psychology department](https://www.bates.edu/psychology/resources-for-students/recruiting-participants-for-your-research/). Once you have done this, students will sign up for slots, and you will receive an email notifation. **Important** please list the participant on the BCVL calendar once one is signed up. You will be responsible for ensuring that each student volunteer gets their course credit by filling out the appropriate Google form.  
+
+### Data collection policies
+General advice:  
+
+* Time your experiment during the pilot, and make sure there is plenty of room in the schedule to accommodate participants who are a little late, or who take longer-than-average breaks. For behavioral and eye tracking experiments, it's good to add 10-15 extra minutes. For EEG, I recommend budgeting an hour to set up the experiment, and an extra hour to budget time for cleanup. 
+* For behavioral experiments, I don't require you to be in the room with the participant. However, it's a good practice to have a few practice trials that you watch the participant do before the experiment starts. It's common for participants to have some clarification questions after seeing the actual task. For eye tracking, please remain with the participant and re-calibrate during planned calibration periods and as needed between blocks. For EEG, please remain with the participant, keeping an eye on his/her movement as well as signal quality. 
+* For all types of experiments, I recommend giving a verbal description of the task in addition to the instruction block that is written into the experiment. 
+* For EEG participants, make sure that they have taken care of bathroom breaks before applying electrodes. I tell them that that the time that we are plugging the electrodes into the cap is a good time to do any last-minute water or bathroom breaks. 
+* Please ask participants in all experiments to place cell phone and backpack outside of experimental room once the experiment is underway. For EEG participants, it's fine for them to be on the phone or using the experimental computer browser while we are geling the electrodes.
+
+### Debriefing
+Some participants will be eager to learn about the purpose of the experiment, while others will only be interested in moving on. Although our experiments do not use deception, if a participant asks about the experiment before or during data collection, tell them that it's about visual perception and that you'll be happy to tell them more at the end. At the end of the experiment, feel free to tell them more, and if they have questions that you can't answer, please feel free to point them to me.  
+
+# Data analysis pipeline
+This will depend on the project to a certain extent. Methods that are used frequently (decoding, representational similarity analysis, etc) will have templates on Github.
+
+# Writing process
+For first drafts, I'm happy to use either Microsoft Word or Google docs, with a slight preference towards Google docs to keep computer clutter down. There are [Zotero plugins](https://www.zotero.org/support/word_processor_integration) for either tool that will allow you to add references with a single click. For final, "camera ready" manuscripts, we'll work with RMarkdown (see below).  
+
+## General writing timeline for thesis
+### Thesis proposal
+In the third week of September, you will submit a thesis proposal to the Neuroscience Program. This will be read by at least two neuroscience faculty members. The proposal is an abstract for your project as well as a complete methods section, written in the future tense. This is a great opportunity to get mental clarity on all of the steps that will be involved in your thesis. Plan to work with me to craft something we are both happy with before it gets sent to other faculty members. Concretely, this means getting me a draft to look at and comment on **at least 48 hours before the deadline**. Note: it may be the case that your methods change as the project evolves. This is fine - the proposal that you send to the program is not a binding agreement. I do recommend that you keep track of any and all changes because this will make your life a lot easier later!  
+
+### Style, length, and all that
+There are no Bates-level or neuroscience-level guidelines that we are bound to with regards to your thesis. However, my philosophy is that your thesis is the first document that you are writing as a scientist, and it should be written for other experts. A good "stretch" goal for thesis is that we should be able to submit your final thesis document to a journal like *Journal of Cognitive Neuroscience* "as is" once you have finished. I encourage you to read journal articles at both a factual level (as you currently do) as well as a meta level in which you note the format, writing style, and types of details that are included or omitted. It's also helpful to look at the author guidelines for journals. For example, here is one from [*Journal of Cognitive Neuroscience*](https://www.mitpressjournals.org/journals/jocn/sub).  
+
+One consequence of this style is that your thesis document is likely to be shorter than those of some of your friends, especially if those friends are writing theses in the humanities. Please do not let this cause you anxiety. I encourage you to think of the thesis as more than the physical document that you turn in at the end of the year - it is the entire process of learning and thinking as a scientist. One thing that some students have liked to do is to include all of the code that they have written as appendices to the document. This can both serve to be open about your scientific process, and also to make a physical manifestation of the work that you have done throughout the year. If these resonate with you, feel free to include your code. But please know that you are under no obligation to do so.
+
+### Introduction
+I would like to have a draft of the introduction before the end of finals during your fall term. I think it works best to start with you sending me an outline first. I'll look at it, and we can discuss the global "story" of your thesis. Once we are happy with this, you can fill in the writing.
+
+### Data analysis
+For analyzing data and making figures, we will be using R. One advantage of this is that you can do the data analysis as you write in the same document, in the same software. This not only makes your life easier, but it also makes your written document more reproducible because it comes directly from the test results rather than from you typing in all numbers by hand from a different program. I like [this tutorial](https://libscie.github.io/rmarkdown-workshop/handout.html) to get you started with this process. In our lab Github, I have also cloned an Rmarkdown thesis template used at Reed College on our lab Github. You are under no obligation to use it, but it can help get you started.  
+
+### Discussion
+While you are reading papers at a meta level, you will notice that most discussions take an "hourglass" shape. By this, I mean that they start and end with very broad things, and narrow down to specific implications of the results in the middle. I find that the following order helps: 
+
+* Remind the reader of the big-picture question that motivated this research  
+* List all of the major findings 
+* For each major finding, discuss: (1) how it gives evidence towards answering your big question; (2) any unusual results with some ideas of why they might have been found; and (3) any limitations of the result.
+* Contextualize the results within a broader literature: who would agree with you? Who would disagree with you? What are the reasons for any existing discrepencies, and can you speculate on ways that these controversies might be resolved?
+* What are the next steps for this line of research?
+* What do you conclude at the end of the day?  
+
+### Deadlines
+I will read and extensively comment on any writing you share with me as long as I have 48 hours of time with it. We will both be happier with your written document if we have worked together to craft each of the sections. **Your final thesis document is due to me by 5pm on the last day of finals of the winter semester.**
+
+# Thesis evaluation and rubric
+For a year-long empirical thesis, you will receive a grade for both fall and winter semesters **at the end of winter semester**. Yes, this is weird. No, I don't make the rules. As a matter of philosophy, I place higher weight on the process that went into making your thesis than the thesis itself. The following provides a rough rubric for what I am looking for in our collaboration along with relative weights for each item. 
+       
