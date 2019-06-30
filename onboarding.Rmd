@@ -140,7 +140,9 @@ You will first need to ensure that the testing room you wish to use is free, and
 #### Step 2: Advertising to students
 Once you have your time slots, you will need to register your experiment with the [Psychology department](https://www.bates.edu/psychology/resources-for-students/recruiting-participants-for-your-research/). Once you have done this, students will sign up for slots, and you will receive an email notifation. **Important** please list the participant on the BCVL calendar once one is signed up. You will be responsible for ensuring that each student volunteer gets their course credit by filling out the appropriate Google form.  
 
-### Data collection policies
+### Data collection policies  
+Jamie helpfully created a checklist of steps for running EEG participants that can be found [here](https://bcvl.github.io/onboarding/EEG.html).  
+
 General advice:  
 
 * Time your experiment during the pilot, and make sure there is plenty of room in the schedule to accommodate participants who are a little late, or who take longer-than-average breaks. For behavioral and eye tracking experiments, it's good to add 10-15 extra minutes. For EEG, I recommend budgeting an hour to set up the experiment, and an extra hour to budget time for cleanup. 
