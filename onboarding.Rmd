@@ -190,4 +190,11 @@ I will read and extensively comment on any writing you share with me as long as 
 
 # Thesis evaluation and rubric
 For a year-long empirical thesis, you will receive a grade for both fall and winter semesters **at the end of winter semester**. Yes, this is weird. No, I don't make the rules. As a matter of philosophy, I place higher weight on the process that went into making your thesis than the thesis itself. The following provides a rough rubric for what I am looking for in our collaboration along with relative weights for each item. 
+```{r echo = FALSE,warning=FALSE, message=FALSE, results='asis'}
+library(knitr)
+library(kableExtra)
+data <- read.csv(file='thesisRubric.csv',header = TRUE, sep = ',')
+kable(data) %>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
+```
        
